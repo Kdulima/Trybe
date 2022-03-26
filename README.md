@@ -12,7 +12,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - [x] 1.3 - Unix & Bash - Parte 1
 - [x] 1.4 - Unix & Bash - Parte 2
 
-### Bloco 2: **[Git, GitHub e Internet](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-02-git-gitHub-e-internet)**
+### Bloco 2: **[Git, GitHub e Internet](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-02-git-gitHub-e-Internet)**
 
 - [x] 2.1 - Git & GitHub  - O que é e para que serve
 - [x] 2.2 - Git & GitHub - Entendendo os comandos
@@ -26,7 +26,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - [x] 3.4 - HTML Semântico
 - [x] 3.5 - **Projeto - Lessons Learned**
 
-### Bloco 4: **[Introdução à JavaScript e Lógica de Programação](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-03-introducao-a-javascript-e-logica-de-programacao)**
+### Bloco 4: **[Introdução à JavaScript e Lógica de Programação](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao)**
 - [x] 4.1 - Introdução - JavaScript
 - [x] 4.1 - JavaScript - Primeiros passos
 - [x] 4.2 - JavaScript - Array e loop For
@@ -34,7 +34,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - [x] 4.4 - JavaScript - Objetos e funções
 - [x] 4.5 - **Projeto - Playground Functions**
 
-### Bloco 5: **[JavaScript: DOM, Eventos e Web Storage](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-03-javascript-dom-eventos-e-web-storage)**
+### Bloco 5: **[JavaScript: DOM, Eventos e Web Storage](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)**
 - [x] 5.1 - JavaScript - DOM e seletores
 - [x] 5.2 - JavaScript - Trabalhando com elementos
 - [x] 5.3 - JavaScript - Eventos
