@@ -124,3 +124,89 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 ### Bloco 18: **[Projeto App de Receitas](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-18-projeto-app-de-receitas)**
 - :ballot_box_with_check: 18.1 - Projeto - App de Receitas
 
+## Desenvolvimento Back-end :hourglass_flowing_sand:
+
+### Bloco 19: **[Docker: Utilizando Containers](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-20-introducao-a-sql)**
+- :ballot_box_with_check: 19.1 - Introdução - Back-end
+- :ballot_box_with_check: 19.1 - Introdução - Bancos de dados relacionais
+- :ballot_box_with_check: 19.1 - Banco de dados SQL
+- :ballot_box_with_check: 19.2 - Encontrando dados em um banco de dados
+- :ballot_box_with_check: 19.3 - Filtrando dados de forma específica
+- :ballot_box_with_check: 19.4 - Manipulando tabelas
+- :ballot_box_with_check: 19.5 - Projeto - All For One
+
+### Bloco 20: **[Introdução à SQL](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-21-funcoes-sql-joins-e-subqueries)**
+- :ballot_box_with_check: 20.1 - Funções mais usadas no SQL
+- :ballot_box_with_check: 20.2 - Descomplicando JOINs e UNIONs
+- :ballot_box_with_check: 20.3 - Stored Routines & Subqueries
+- :ballot_box_with_check: 20.4 - Projeto - Vocabulary Booster
+  
+### Bloco 21: **[Funções SQL, JOINS e Normalização](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-21-funcoes-sql-joins-e-subqueries)**
+- :ballot_box_with_check: 21.1 - Funções mais usadas no SQL
+- :ballot_box_with_check: 21.2 - Descomplicando JOINs e UNIONs
+- :ballot_box_with_check: 21.3 - Stored Routines & Subqueries
+- :ballot_box_with_check: 21.4 - Projeto - Vocabulary Booster
+
+### Bloco 22: **[Introdução ao desenvolvimento Web com Node.js](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-22-normalizacao-e-modelagem-de-banco-de-dados)**
+- :ballot_box_with_check: 22.1 - Transformando ideias em um modelo de banco de dados
+- :ballot_box_with_check: 22.2 - Normalização, Formas Normais e Dumps
+- :ballot_box_with_check: 22.3 - Transformando ideias em um modelo de banco de dados - Parte 2
+- :ballot_box_with_check: 22.4 - Projeto - One For All
+
+### Bloco 23: **[Node.js: Camada de Serviço e Arquitetura Rest e Restful](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-23-introducao-ao-mongodb)**
+- :ballot_box_with_check: 23.1 - Introdução - NoSQL
+- :ballot_box_with_check: 23.1 - MongoDB - Introdução
+- :ballot_box_with_check: 23.2 - Filter Operators
+- :ballot_box_with_check: 23.3 - Projeto - Data Flights
+
+### Bloco 24: **[Node.js: ORM e Autenticação](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-24-mongodb-updates-simples-e-complexos)**
+- :ballot_box_with_check: 24.1 - Updates Simples
+- :ballot_box_with_check: 24.2 - Updates Complexos - Arrays - Parte 1
+- :ballot_box_with_check: 24.3 - Updates Complexos - Arrays - Parte 2
+- :ballot_box_with_check: 24.4 - Projeto - Commerce
+
+### Bloco 25: **[Deployment](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-25-mongodb-aggregation-framework)**
+- :ballot_box_with_check: 25.1 - Aggregation Framework - Parte 1
+- :ballot_box_with_check: 25.2 - Aggregation Framework - Parte 2
+- :ballot_box_with_check: 25.3 - Projeto - Aggregations
+
+### Bloco 26: **[TypeScript](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-26-introducao-ao-desenvolvimento-web-com-nodejs)**
+- :ballot_box_with_check: 26.1 - Intro - NodeJS
+- :ballot_box_with_check: 26.1 - NodeJS - Introdução
+- :ballot_box_with_check: 26.2 - NodeJS - Fluxo Assíncrono
+- :ballot_box_with_check: 26.3 - Testes com NodeJS
+- :ballot_box_with_check: 26.4 - Express: HTTP com Node.js
+- :ballot_box_with_check: 26.5 - Praticando Express
+- :ballot_box_with_check: 26.6 - Projeto - Talker manager
+
+### Bloco 27: **[Programação Orientada a Objetos (POO) e SOLID](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-27-nodejs-camada-de-servico-e-arquitetura-rest-e-restful)**
+- [ ] 27.1 - Introdução - Arquitetura de Software
+- [ ] 27.1 - Arquitetura de Software - Camada de Model
+- [ ] 27.2 - Arquitetura de Software - Camada de Controller e Service
+- [ ] 27.3 - Arquitetura Web - Rest e Restful
+- [ ] 27.4 - Arquitetura de Software - Testando as Camadas
+- [ ] 27.5 - Projeto - Store Manager
+
+### Bloco 28: **[Projeto - TFC - Trybe Futebol Clube](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-28-autenticacao-e-upload-de-arquivos)**
+- [ ] 28.1 - NodeJS - JWT - (JSON Web Token)
+- [ ] 28.2 - NodeJS - Upload de arquivos com Multer
+- [ ] 28.3 - NodeJS - Testando APIs com Testes de Integração
+- [ ] 28.4 - Projeto - Cookmaster
+
+### Bloco 29: **[Introdução ao MongoDB](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-29-deployment)**
+- [ ] 29.1 - Introdução - Deploy
+- [ ] 29.1 - Infraestrutura - Deploy com Heroku
+- [ ] 29.2 - Deploy - Gerenciadores de Processos
+- [ ] 29.3 - Projeto - Stranger Things
+
+### Bloco 31: **[MasterClass - VPS, CI/CD](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-29-deployment)**
+- [ ] 30.1 - Arquitetura - Princípios SOLID
+- [ ] 30.2 - ORM - Interface da aplicação com o banco de dados
+- [ ] 30.3 - ORM - Associations
+- [ ] 30.4 - Boas práticas na escrita de testes
+- [ ] 30.5 - Projeto - API de Blogs
+
+### Bloco 32: **[Projeto - App de Delivery](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-29-deployment)**
+- [ ] 31.1 - Sockets - TCP/UDP & NET
+- [ ] 31.2 - Sockets - Socket.io
+- [ ] 31.3 - Projeto - Webchat
