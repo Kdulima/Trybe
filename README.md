@@ -53,7 +53,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - :ballot_box_with_check: 6.3 - CSS Flexbox - Parte 1
 - :ballot_box_with_check: 6.4 - CSS Flexbox - Parte 2
 - :ballot_box_with_check: 6.5 - CSS Responsivo - Mobile First
-- :ballot_box_with_check: 6.6 - *Projeto - Trybewarts*
+- :ballot_box_with_check: 6.6 - **Projeto - Trybewarts**
 
 ### Bloco 7: **[Introdução à JavaScript ES6 e Testes Unitários](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-07-introducao-a-javascript-es6-e-testes-unitarios)**
 - :ballot_box_with_check: 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
@@ -113,7 +113,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - :ballot_box_with_check: 15.6 - **Projeto - Trybe Wallet** 
 
 ### Bloco 16: **[Projeto Jogo de Trivia](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-16-projeto-jogo-de-trivia)**
-- :ballot_box_with_check: 16.1 - Projeto - Jogo de Trivia
+- :ballot_box_with_check: 16.1 - **Projeto - Jogo de Trivia**
 
 ### Bloco 17: **[Context API e React Hooks](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-17-context-api-e-react-hooks)**
 - :ballot_box_with_check: 17.1 - Context API do React
@@ -122,7 +122,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - :ballot_box_with_check: 17.4 - **Projeto - StarWars Datatable com Context API e Hooks**
 
 ### Bloco 18: **[Projeto App de Receitas](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-18-projeto-app-de-receitas)**
-- :ballot_box_with_check: 18.1 - Projeto - App de Receitas
+- :ballot_box_with_check: 18.1 - **Projeto - App de Receitas**
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
