@@ -61,7 +61,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - [x] 7.3 - Primeiros passos em Jest
 - [x] 7.4 - **Projeto - JavaScript Testes Unitários**
 
-### Bloco 8: **[Higher Order Functions do JavaScript ES6](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-08-highorder-functions-do-javascript-es6)**
+### Bloco 8: **[Higher Order Functions do JavaScript ES6](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-08-high-order-functions-do-javascript-es6)**
 - [x] 8.1 - JavaScript ES6 - Introdução a Higher Order Functions
 - [x] 8.2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [x] 8.3 - JavaScript ES6 - Higher Order Functions - map e filter
@@ -69,7 +69,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - [x] 8.5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [x] 8.6 - **Projeto - Zoo functions**
 
-### Bloco 9: **[JavaScript Assíncrono e Promises](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-09-javascript-assincrono-e-promises)**
+### Bloco 9: **[JavaScript Assíncrono e Promises](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-09-javascript-e-testes-assincronos)**
 - [x] 9.1 - JavaScript Assíncrono e Callbacks
 - [x] 9.2 - Fetch API e async/await
 - [x] 9.3 - Jest - Testes Assíncronos
