@@ -77,34 +77,34 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 
 ## Desenvolvimento Front-end :heavy_check_mark:
 
-### Bloco 10: **[Introdução à React](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-11-introducao-ao-react)**
+### Bloco 10: **[Introdução à React](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-10-introducao-ao-react)**
 - :ballot_box_with_check: 10.1 - Introdução - Front-end
 - :ballot_box_with_check: 10.1 - Introdução - React
 - :ballot_box_with_check: 10.1 - 'Hello, world!' no React!
 - :ballot_box_with_check: 10.2 - Componentes React
 - :ballot_box_with_check: 10.3 - **Projeto - Movie Cards Library**
 
-### Bloco 11: **[Componentes com Estado, Eventos e Formulários com React](https://github.com/paulohbsimoes/trybe-exercises/tree/master/02-front-end/bloco-12-componentes-com-estado-eventos-e-formularios-com-react)**
+### Bloco 11: **[Componentes com Estado, Eventos e Formulários com React](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-11-componentes-com-estado-eventos-e-formularios-com-react)**
 - :ballot_box_with_check: 11.1 - Componentes com estado, Eventos e Formulários com React
 - :ballot_box_with_check: 11.2 - Formulários no React
 - :ballot_box_with_check: 11.3 - **Projeto Tryundo**
 
-### Bloco 12: **[Ciclo de Vida de Componentes e React Router](https://github.com/paulohbsimoes/trybe-exercises/tree/master/02-front-end/bloco-13-ciclo-de-vida-de-componentes-e-react-router)**
+### Bloco 12: **[Ciclo de Vida de Componentes e React Router](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-12-ciclo-de-vida-de-componentes-e-react-router)**
 - :ballot_box_with_check: 12.1 - Ciclo de vida de componentes
 - :ballot_box_with_check: 12.2 - React Router
 - :ballot_box_with_check: 12.3 - **Projeto Trybetunes**
 
-### Bloco 13: **[Metodologias Ágeis](https://github.com/paulohbsimoes/trybe-exercises/tree/master/02-front-end/bloco-14-metodologias-ageis/dia-01-metodologias-ageis)**
+### Bloco 13: **[Metodologias Ágeis](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-13-metodologias-ageis)**
 - :ballot_box_with_check: 13.1 - Metodologias Ágeis
 - :ballot_box_with_check: 13.2 - **Projeto - Frontend Online Store**
 
-### Bloco 14: **[Testes automatizados com React Testing Library](https://github.com/paulohbsimoes/trybe-exercises/tree/master/02-front-end/bloco-15-testes-automatizados-com-react-testing-library)**
+### Bloco 14: **[Testes automatizados com React Testing Library](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-14-testes-automatizados-com-react-testing-library)**
 - :ballot_box_with_check: 14.1 - RTL - Primeiros passos
 - :ballot_box_with_check: 14.2 - RTL - Mocks e Inputs
 - :ballot_box_with_check: 14.3 - RTL - Testando React Router
 - :ballot_box_with_check: 14.4 - **Projeto - Testes em React**
 
-### Bloco 15: **[Gerenciamento de estado com Redux](https://github.com/paulohbsimoes/trybe-exercises/tree/master/02-front-end/bloco-16-gerenciamento-de-estado-com-redux)**
+### Bloco 15: **[Gerenciamento de estado com Redux](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-15-gerenciamento-de-estado-com-redux)**
 - :ballot_box_with_check: 15.1 - Introdução ao Redux - O estado global da aplicação
 - :ballot_box_with_check: 15.2 - Usando o Redux no React
 - :ballot_box_with_check: 15.3 - Usando o Redux no React - Prática
@@ -112,15 +112,15 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - :ballot_box_with_check: 15.5 - Testes em React-Redux
 - :ballot_box_with_check: 15.6 - **Projeto - Trybe Wallet** 
 
-### Bloco 16: **Projeto Jogo de Trivia**
+### Bloco 16: **[Projeto Jogo de Trivia]**(https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-16-projeto-jogo-de-trivia)
 - :ballot_box_with_check: 16.1 - Projeto - Jogo de Trivia
 
-### Bloco 17: **[Context API e React Hooks](https://github.com/paulohbsimoes/trybe-exercises/tree/master/02-front-end/bloco-18-context-api-e-react-hooks)**
+### Bloco 17: **[Context API e React Hooks](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-17-context-api-e-react-hooks)**
 - :ballot_box_with_check: 17.1 - Context API do React
 - :ballot_box_with_check: 17.2 - React Hooks - useState e useContext
 - :ballot_box_with_check: 17.3 - React Hooks - useEffect e Hooks customizados
 - :ballot_box_with_check: 17.4 - **Projeto - StarWars Datatable com Context API e Hooks**
 
-### Bloco 18: **Projeto App de Receitas**
+### Bloco 18: **[Projeto App de Receitas]**(https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-18-projeto-app-de-receitas)
 - :ballot_box_with_check: 18.1 - Projeto - App de Receitas
 
