@@ -55,7 +55,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - [x] 6.5 - CSS Responsivo - Mobile First
 - [x] 6.6 - *Projeto - Trybewarts*
 
-### Bloco 7: **[Introdução à JavaScript ES6 e Testes Unitários](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-0-introducao-a-javascript-es6-e-testes-unitarios)**
+### Bloco 7: **[Introdução à JavaScript ES6 e Testes Unitários](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-07-introducao-a-javascript-es6-e-testes-unitarios)**
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [x] 7.2 - JavaScript ES6 - Fluxo de exceção e Objetos
 - [x] 7.3 - Primeiros passos em Jest
@@ -75,8 +75,3 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - [x] 9.3 - Jest - Testes Assíncronos
 - [x] 9.4 - **Projeto - Carrinho de Compras**
 
-### Bloco 10: **[Testes automatizados com Jest](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-10-testes-automatizados-com-jest)**
-- [x] 10.1 - Primeiros passos no Jest
-- [x] 10.2 - Jest - Testes Assíncronos
-- [x] 10.3 - Jest - Simulando comportamentos
-- [x] 10.4 - Projeto - Jest Assíncrono e Mocking
