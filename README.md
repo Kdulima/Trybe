@@ -6,7 +6,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
-### Bloco 1: **[Unix & Bash](https://github.com/kdulima/Trybe/Fundamentos/bloco-01-unix-e-bash)**
+### Bloco 1: **[Unix & Bash](https://github.com/kdulima/Trybe/tree/main/Fundamentos/bloco-01-unix-e-bash)**
 - [x] 1.3 - Fundamentos do Desenvolvimento Web
 - [x] 1.3 - Introdução - Unix & Shell
 - [x] 1.3 - Unix & Bash - Parte 1
@@ -77,4 +77,4 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - [x] 10.1 - Primeiros passos no Jest
 - [x] 10.2 - Jest - Testes Assíncronos
 - [x] 10.3 - Jest - Simulando comportamentos
-- [x] 10.4 - Projeto - Jest Assíncrono e Mockingxxx
+- [x] 10.4 - Projeto - Jest Assíncrono e Mocking
