@@ -112,7 +112,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - :ballot_box_with_check: 15.5 - Testes em React-Redux
 - :ballot_box_with_check: 15.6 - **Projeto - Trybe Wallet** 
 
-### Bloco 16: **[Projeto Jogo de Trivia]**(https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-16-projeto-jogo-de-trivia)
+### Bloco 16: **[Projeto Jogo de Trivia](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-16-projeto-jogo-de-trivia)**
 - :ballot_box_with_check: 16.1 - Projeto - Jogo de Trivia
 
 ### Bloco 17: **[Context API e React Hooks](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-17-context-api-e-react-hooks)**
@@ -121,6 +121,6 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - :ballot_box_with_check: 17.3 - React Hooks - useEffect e Hooks customizados
 - :ballot_box_with_check: 17.4 - **Projeto - StarWars Datatable com Context API e Hooks**
 
-### Bloco 18: **[Projeto App de Receitas]**(https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-18-projeto-app-de-receitas)
+### Bloco 18: **[Projeto App de Receitas](https://github.com/Kdulima/Trybe/tree/master/Frontend/bloco-18-projeto-app-de-receitas)**
 - :ballot_box_with_check: 18.1 - Projeto - App de Receitas
 
