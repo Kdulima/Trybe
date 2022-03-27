@@ -194,7 +194,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - [ ] 27.6 - **Projeto - Trybers and Dragons**
 
 ### Bloco 28: **[Projeto - TFC - Trybe Futebol Clube]()**
-- [ ] 28.1 - Projeto - TFC - Trybe Futebol CLube
+- [ ] 28.1 - **Projeto - TFC - Trybe Futebol CLube**
 
 ### Bloco 29: **[Introdução ao MongoDB]()**
 - [ ] 29.1 - Introdução - NoSQL
