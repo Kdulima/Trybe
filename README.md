@@ -32,7 +32,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - :ballot_box_with_check: 4.2 - JavaScript - Array e loop For
 - :ballot_box_with_check: 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - :ballot_box_with_check: 4.4 - JavaScript - Objetos e funções
-- :ballot_box_with_check: 4.5 - **Projeto - Playground Functions**
+- :ballot_box_with_check: 4.5 - **[Projeto - Playground Functions](https://github.com/Kdulima/Projeto-Playground-Functions)**
 
 ### Bloco 5: **[JavaScript: DOM, Eventos e Web Storage](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)**
 - :ballot_box_with_check: 5.1 - JavaScript - DOM e seletores
