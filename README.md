@@ -24,7 +24,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - :ballot_box_with_check: 3.2 - HTML & CSS - Primeiros passos em CSS
 - :ballot_box_with_check: 3.3 - HTML & CSS - Seletores e posicionamento
 - :ballot_box_with_check: 3.4 - HTML Semântico
-- :ballot_box_with_check: 3.5 - **[Projeto - Lessons Learned](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-03-introducao-a-html-e-css/dia-05-Projeto-Lesson-Learned)**
+- :ballot_box_with_check: 3.5 - **[Projeto - Lessons Learned](https://github.com/Kdulima/Projeto-Lessons-Learned)**
 
 ### Bloco 4: **[Introdução à JavaScript e Lógica de Programação](https://github.com/Kdulima/Trybe/tree/master/Fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao)**
 - :ballot_box_with_check: 4.1 - Introdução - JavaScript
