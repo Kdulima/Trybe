@@ -40,7 +40,7 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - :ballot_box_with_check: 5.3 - JavaScript - Eventos
 - :ballot_box_with_check: 5.4 - JavaScript - Web Storage
 - :ballot_box_with_check: 5.5 - Fundamentos - JavaScript - Projetos
-- :ballot_box_with_check: 5.5 - **Projeto - Arte com Pixels**
+- :ballot_box_with_check: 5.5 - **[Projeto - Arte com Pixels](https://github.com/Kdulima/Projeto-Pixels-Art)**
 - :ballot_box_with_check: 5.6 - **Projeto - Lista de tarefas**
 - :ballot_box_with_check: 5.7 - **(Bônus) Projeto - Meme Generator**
 - :ballot_box_with_check: 5.7 - **(Bônus) Projeto - Adivinhe a Cor**
