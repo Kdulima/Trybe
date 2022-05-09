@@ -186,18 +186,18 @@ Neste repositório você vai encontrar todas as atividades desenvolvidas durante
 - :ballot_box_with_check: 26.4 - **Projeto - Trybe Smith**
 
 ### Bloco 27: **[Programação Orientada a Objetos (POO) e SOLID]()**
-- [ ] 27.1 - Introdução à Orientação a Objetos
-- [ ] 27.2 - Herança e Interfaces
-- [ ] 27.3 - Polimorfismo
-- [ ] 27.4 - SOLID - Introdução e Princípios S, O e D
-- [ ] 27.5 - SOLID - Princípios L e I
-- [ ] 27.6 - **Projeto - Trybers and Dragons**
+- :ballot_box_with_check: 27.1 - Introdução à Orientação a Objetos
+- :ballot_box_with_check: 27.2 - Herança e Interfaces
+- :ballot_box_with_check: 27.3 - Polimorfismo
+- :ballot_box_with_check: 27.4 - SOLID - Introdução e Princípios S, O e D
+- :ballot_box_with_check: 27.5 - SOLID - Princípios L e I
+- :ballot_box_with_check: 27.6 - **Projeto - Trybers and Dragons**
 
 ### Bloco 28: **[Projeto - TFC - Trybe Futebol Clube]()**
-- [ ] 28.1 - **Projeto - TFC - Trybe Futebol CLube**
+- :ballot_box_with_check: 28.1 - **Projeto - TFC - Trybe Futebol CLube**
 
 ### Bloco 29: **[Introdução ao MongoDB]()**
-- [ ] 29.1 - Introdução - NoSQL
+- :ballot_box_with_check: 29.1 - Introdução - NoSQL
 - [ ] 29.1 - MongoDB - Introdução
 - [ ] 29.2 - Filter Operators
 - [ ] 29.3 - Operadores de consulta
